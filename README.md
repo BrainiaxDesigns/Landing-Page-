@@ -44,7 +44,7 @@ Users should be able to:
 - How to make the page responsive to various mobile screens
 
 ```html
-<nav>I'm pround of using this html tag</nav>
+<nav>I'm proud of using this html tag</nav>
 ```
 ```css
 .proud-of-this-css {

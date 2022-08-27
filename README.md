@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/BrainiaxDesigns/Landing-Page-.git)
-<!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Live Site URL:(https://brainiaxdesigns.github.io/Landing-Page-/)
 
 ## My process
 

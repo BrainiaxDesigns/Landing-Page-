@@ -329,7 +329,9 @@ height: 30px;
     display: flex;
     flex-direction: column;
     justify-content: center;
-
+    background-image: url(./images/bg-header-mobile.png);
+    background-repeat: no-repeat;
+    background-position: top;
    }
    .part_1 h2{
     font-size: 30px;

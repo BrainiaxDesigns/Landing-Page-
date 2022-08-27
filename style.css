@@ -17,7 +17,15 @@ body{
     text-align: center;
     position: center;
     }
-    
+  
+    button:hover{ 
+        background-color:black;
+        color: rgb(79, 107, 133);
+    }
+    a:hover{ 
+       
+        color: rgb(0, 4, 8);
+    }
 .img1{
     width: 0;
     margin: auto;
